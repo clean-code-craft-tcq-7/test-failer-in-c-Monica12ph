@@ -11,7 +11,7 @@ TEST(TShirt, Size) {
 }
 
 TEST(ColorMap, Print) {
-    testPrintColorMap();
+    testPrintColorMap();    
 }
 
 TEST(WeatherReport, Report) {
